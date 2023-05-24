@@ -15,7 +15,7 @@ const Contact = () => {
 				<img src={github} alt="github" className="w-[80%] h-[80%] object-contain" />
 			</div>
 			<div
-				onClick={() => window.open("https://www.linkedin.com/in/tanner-j-white/", "_blank")}
+				onClick={() => window.open("https://www.linkedin.com/in/tannerjwhite/", "_blank")}
 				className="bg-zinc-900 w-10 h-10 rounded-full flex justify-center items-center cursor-pointer hover:scale-[1.10]"
 			>
 				<img src={linkedin} alt="linkedin" className="w-[100%] h-[100%] object-contain" />
