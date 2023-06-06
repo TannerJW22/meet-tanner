@@ -166,37 +166,24 @@ const vezra = {
 			color: "blue-text-gradient",
 		},
 		{
-			name: "nextjs",
-			color: "green-text-gradient",
-		},
-		{
-			name: "graphql",
-			color: "pink-text-gradient",
-		},
-		{
-			name: "apollo",
-			color: "violet-text-gradient",
-		},
-		{
-			name: "mikroORM",
-			color: "blue-text-gradient",
-		},
-		{
 			name: "mongodb",
 			color: "green-text-gradient",
 		},
 		{
-			name: "type-graphql",
+			name: "nextjs",
 			color: "pink-text-gradient",
 		},
-
 		{
-			name: "tailwind",
+			name: "prisma",
 			color: "violet-text-gradient",
 		},
 		{
-			name: "typescript",
+			name: "tailwind",
 			color: "blue-text-gradient",
+		},
+		{
+			name: "typescript",
+			color: "green-text-gradient",
 		},
 	],
 	images: [defiPilot, currCafe, emojiTwitter],
